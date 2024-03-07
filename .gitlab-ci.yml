@@ -4,3 +4,4 @@ stages:
 test:
   script:
     - echo "Coucou, c'est la première pipeline !"
+    - node hello.js
